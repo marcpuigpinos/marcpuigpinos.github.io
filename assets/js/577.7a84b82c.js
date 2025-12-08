@@ -1,0 +1,1 @@
+(globalThis.webpackChunkmpb_site=globalThis.webpackChunkmpb_site||[]).push([[577],{549:(s,b,a)=>{"use strict";a.d(b,{A:()=>h});var e=a(8291);const h=e},5741:()=>{}}]);
